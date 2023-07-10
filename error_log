@@ -1,0 +1,659 @@
+[29-Apr-2023 03:05:39 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:35:49 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', '\n            <p...')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 03:07:30 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:37:30 Asia/Calcutta] PHP Warning:  require(/php/class/class.phpmailer.php): Failed to open stream: No such file or directory in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 46
+[29-Apr-2023 13:37:30 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '/php/class/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 46
+[29-Apr-2023 03:08:05 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:38:05 Asia/Calcutta] PHP Warning:  require(/php/class/class.phpmailer.php): Failed to open stream: No such file or directory in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 46
+[29-Apr-2023 13:38:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '/php/class/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 46
+[29-Apr-2023 03:08:28 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:38:28 Asia/Calcutta] PHP Warning:  require(/php/class/class.phpmailer.php): Failed to open stream: No such file or directory in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 46
+[29-Apr-2023 13:38:28 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required '/php/class/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 46
+[29-Apr-2023 03:08:47 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:09:00 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:10:05 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:12:15 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:42:25 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', '\n            <p...')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 03:13:54 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:48:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 13:48:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 13:48:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[29-Apr-2023 13:48:59 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[29-Apr-2023 13:54:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 81
+[29-Apr-2023 13:54:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 89
+[29-Apr-2023 13:54:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 92
+[29-Apr-2023 13:54:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 96
+[29-Apr-2023 13:54:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 98
+[29-Apr-2023 13:54:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 99
+[29-Apr-2023 13:54:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 81
+[29-Apr-2023 13:54:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 89
+[29-Apr-2023 13:54:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 92
+[29-Apr-2023 13:54:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 96
+[29-Apr-2023 13:54:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 98
+[29-Apr-2023 13:54:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/test_series.php on line 99
+[29-Apr-2023 03:25:31 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:25:43 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:26:32 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:26:58 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:30:28 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:32:43 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 03:35:29 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 14:05:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', 'test document\n')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 03:35:59 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 14:05:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', 'test document\n')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 04:22:47 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 04:23:38 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 14:53:39 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', 'test document\n')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 04:24:02 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 04:25:28 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 04:26:43 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 04:30:39 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 04:32:05 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 15:02:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', 'test document\n')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 04:33:34 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 15:03:35 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', 'test document\n')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 04:38:56 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 15:08:56 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sat, 29 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sat, 29 A...', 'test document\n')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(80): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 15:10:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 208
+[29-Apr-2023 15:10:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 215
+[29-Apr-2023 15:10:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 222
+[29-Apr-2023 15:10:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 231
+[29-Apr-2023 15:10:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 15:10:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 15:10:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[29-Apr-2023 15:10:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[29-Apr-2023 04:43:29 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 15:13:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 15:13:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 15:13:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 15:14:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 15:14:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 15:14:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[29-Apr-2023 15:15:04 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[29-Apr-2023 18:22:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 18:22:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 18:22:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 18:22:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 18:22:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 18:22:55 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 18:39:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 18:39:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 18:39:29 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 18:39:33 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[29-Apr-2023 18:39:33 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[29-Apr-2023 18:39:33 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 13:38:35 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[30-Apr-2023 00:08:37 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sun, 30 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sun, 30 A...', '<p>Hi ,</p>\n   ...')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(56): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[30-Apr-2023 00:12:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[30-Apr-2023 00:12:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[30-Apr-2023 00:12:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[30-Apr-2023 00:12:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[30-Apr-2023 00:12:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[30-Apr-2023 00:12:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[29-Apr-2023 13:42:50 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:43:27 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:50:51 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[30-Apr-2023 00:20:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sun, 30 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sun, 30 A...', '<p>Hi ,</p>\n   ...')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(56): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 13:51:18 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[29-Apr-2023 13:53:13 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[30-Apr-2023 00:23:13 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php:622
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(1059): SMTP->Data('Date: Sun, 30 A...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(881): PHPMailer->SmtpSend('Date: Sun, 30 A...', '\n              ...')
+#2 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.phpmailer.php(802): PHPMailer->PostSend()
+#3 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php(74): PHPMailer->Send()
+#4 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/php/class/class.smtp.php on line 622
+[29-Apr-2023 13:53:57 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[30-Apr-2023 00:34:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[30-Apr-2023 00:34:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[30-Apr-2023 00:34:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[30-Apr-2023 00:34:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[30-Apr-2023 00:34:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[30-Apr-2023 00:34:16 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[30-Apr-2023 01:17:04 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:17:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/contact-us.php(258): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:17:59 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:17:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:20:01 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:20:01 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/contact-us.php(258): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:22:52 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:22:52 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/about-us.php(125): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:23:07 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:23:07 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:24:29 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:24:29 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:24:32 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:24:32 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:25:16 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:25:16 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/contact-us.php(258): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:26:00 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:26:00 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:26:05 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:26:05 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:29:08 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:29:08 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:29:21 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:29:21 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:31:02 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:31:02 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:31:59 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:31:59 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(418): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:36:26 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:36:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(442): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:40:51 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:40:51 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(442): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:41:40 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:41:40 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(443): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:41:46 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:41:46 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(443): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:42:11 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:42:11 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(442): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:44:15 Asia/Calcutta] PHP Warning:  Undefined variable $base_url in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 01:44:15 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Value of type null is not callable in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/index.php(442): include()
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/footer.php on line 25
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Apr-2023 21:47:10 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[01-May-2023 11:15:08 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[01-May-2023 11:15:08 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[01-May-2023 11:15:08 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[01-May-2023 01:19:03 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 11:49:04 Asia/Calcutta] PHP Warning:  Undefined variable $mail in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 55
+[01-May-2023 11:49:04 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to a member function Send() on null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php:55
+Stack trace:
+#0 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/register-code.php on line 55
+[01-May-2023 01:22:17 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 01:23:22 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 01:30:03 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 01:33:00 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 01:38:47 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 01:41:44 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 01:59:17 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 02:38:23 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 02:39:18 America/Chicago] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/credential.php on line 2
+[01-May-2023 03:33:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function My Name IS Muskan () in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/mail.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/mail.php on line 14
+[01-May-2023 19:22:32 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[01-May-2023 19:22:32 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[01-May-2023 19:22:32 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[02-May-2023 11:26:01 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/our-teachers.php:67
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/our-teachers.php(67): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/our-teachers.php on line 67
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:39:06 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "name" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 6
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "email" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 7
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "number" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 8
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 9
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "course_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 10
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "student_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 11
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "fee" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 12
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined array key "type_sub" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 13
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:41:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "name" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 6
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "email" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 7
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "number" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 8
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 9
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "course_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 10
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "student_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 11
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "fee" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 12
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined array key "type_sub" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 13
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:41:35 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "name" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 6
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "email" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 7
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "number" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 8
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 9
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "course_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 10
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "student_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 11
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "fee" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 12
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined array key "type_sub" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 13
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:42:15 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "name" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 6
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "email" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 7
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "number" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 8
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 9
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "course_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 10
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "student_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 11
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "fee" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 12
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined array key "type_sub" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 13
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:43:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "name" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 6
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "email" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 7
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "number" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 8
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 9
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "course_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 10
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "student_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 11
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "fee" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 12
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined array key "type_sub" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 13
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:43:49 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "name" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 6
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "email" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 7
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "number" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 8
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 9
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "course_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 10
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "student_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 11
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "fee" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 12
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "type_sub" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 13
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:44:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "name" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 6
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "email" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 7
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "number" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 8
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 9
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "course_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 10
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "student_id" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 11
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "fee" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 12
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined array key "type_sub" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 13
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined variable $r in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 57
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 70
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 71
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Undefined variable $row in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 11:44:52 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/pay_type.php on line 72
+[02-May-2023 17:38:50 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[02-May-2023 17:38:50 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[02-May-2023 17:38:50 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[02-May-2023 17:39:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[02-May-2023 17:39:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[02-May-2023 17:39:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:03:03 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:00 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:25 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:04:50 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-May-2023 13:05:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[04-May-2023 13:05:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[04-May-2023 13:05:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[04-May-2023 13:05:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[04-May-2023 13:05:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[04-May-2023 13:05:25 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[04-May-2023 13:05:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[04-May-2023 13:05:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[04-May-2023 13:05:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-May-2023 21:56:15 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[06-Jun-2023 23:55:52 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php:4
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php(4): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php on line 4
+[08-Jun-2023 10:30:57 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php:4
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php(4): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php on line 4
+[14-Jun-2023 20:46:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[14-Jun-2023 20:46:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[14-Jun-2023 20:46:10 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[30-Jun-2023 22:07:08 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/free_pdf.php on line 64
+[04-Jul-2023 09:02:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 322
+[04-Jul-2023 09:02:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 323
+[04-Jul-2023 09:02:19 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/checkout.php on line 324
+[06-Jul-2023 20:09:37 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php:4
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php(4): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/sub-courses.php on line 4

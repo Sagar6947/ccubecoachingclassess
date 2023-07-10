@@ -1,0 +1,319 @@
+[26-Apr-2023 09:40:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:00:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:57 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:19:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[26-Apr-2023 10:26:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/exzpblvz/public_html/demo/c_cube/credential.php on line 2
+[29-Apr-2023 13:47:46 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[29-Apr-2023 13:47:46 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[29-Apr-2023 13:47:46 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[29-Apr-2023 13:50:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/update_student_package.php on line 12
+[29-Apr-2023 13:50:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/update_student_package.php on line 20
+[29-Apr-2023 13:50:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/update_student_package.php on line 21
+[29-Apr-2023 13:50:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/update_student_package.php on line 22
+[29-Apr-2023 13:50:22 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/update_student_package.php on line 23
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 80
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 82
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 13:50:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 92
+[29-Apr-2023 13:50:57 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 106
+[29-Apr-2023 13:50:57 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 13:50:57 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 13:51:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 106
+[29-Apr-2023 13:51:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 13:51:41 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 13:52:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 106
+[29-Apr-2023 13:52:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 13:52:47 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 13:54:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 106
+[29-Apr-2023 13:54:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 13:54:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-list.php on line 116
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "image_eng" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 42
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 42
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "image_eng" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 43
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 43
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "image_hindi" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 47
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 47
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "image_hindi" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 48
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 48
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "exp_image_eng" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 52
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 52
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "exp_image_eng" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 53
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 53
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "exp_image_hindi" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 57
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 57
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key "exp_image_hindi" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 58
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 58
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $ansa in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $ansb in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $ansc in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $ansd in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $hindi_ansa in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $hindi_ansb in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $hindi_ansc in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined variable $hindi_ansd in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 64
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key 3 in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 71
+[29-Apr-2023 15:09:23 Asia/Calcutta] PHP Warning:  Undefined array key 3 in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/test-series-veiw.php on line 72
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 80
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 82
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:11:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 92
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 80
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 82
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:11:54 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 92
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 80
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 82
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:12:21 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 92
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 80
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 82
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:15:27 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 92
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 80
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 82
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[29-Apr-2023 15:15:43 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 92
+[29-Apr-2023 15:25:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[29-Apr-2023 15:25:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[29-Apr-2023 15:25:07 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[29-Apr-2023 15:34:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[29-Apr-2023 15:34:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[29-Apr-2023 15:34:34 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 80
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 82
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 91
+[30-Apr-2023 00:07:20 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 92
+[01-May-2023 00:22:29 Asia/Calcutta] PHP Warning:  Undefined array key "class" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/ranker-list.php on line 69
+[01-May-2023 12:26:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[01-May-2023 12:26:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[01-May-2023 12:26:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 13:36:43 Asia/Calcutta] PHP Warning:  Undefined array key "image" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/gallery.php on line 102
+[01-May-2023 14:41:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[01-May-2023 14:41:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[01-May-2023 14:41:09 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[01-May-2023 15:25:09 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:25:09 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * from c...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(75): getNumRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:25:50 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:25:50 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:27:00 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:27:00 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:27:41 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:27:41 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:28:16 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:28:16 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:29:30 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:29:30 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumssRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:29:45 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:29:45 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumssRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:30:42 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:30:42 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:26
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(26): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumssRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 26
+[01-May-2023 15:33:36 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 25
+[01-May-2023 15:33:36 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(25): mysqli_query(NULL, 'SELECT * fromco...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumssRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 25
+[01-May-2023 15:34:03 Asia/Calcutta] PHP Warning:  Undefined variable $con in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 25
+[01-May-2023 15:34:03 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php:25
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(25): mysqli_query(NULL, 'SELECT * from c...')
+#1 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php(74): getNumssRows('courses')
+#2 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/home.php on line 25
+[01-May-2023 16:07:39 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:20:57 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:20:59 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:22:19 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:36:51 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/add-teachers.php on line 7
+[01-May-2023 16:36:56 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:37:23 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/add-teachers.php on line 7
+[01-May-2023 16:39:41 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/add-teachers.php on line 7
+[01-May-2023 16:39:42 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:40:01 Asia/Calcutta] PHP Warning:  Undefined array key "price" in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/add-teachers.php on line 7
+[01-May-2023 16:40:01 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:40:57 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php:60
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php(60): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/our-teachers.php on line 60
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 97
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 117
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 117
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 117
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 117
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 128
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 133
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 139
+[01-May-2023 16:49:48 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-subcourse.php on line 145
+[01-May-2023 16:50:23 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-teachers.php:45
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-teachers.php(45): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-teachers.php on line 45
+[01-May-2023 16:50:39 Asia/Calcutta] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-teachers.php:45
+Stack trace:
+#0 /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-teachers.php(45): mysqli_fetch_array(false)
+#1 {main}
+  thrown in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/edit-teachers.php on line 45
+[04-May-2023 10:21:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[04-May-2023 10:21:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[04-May-2023 10:21:12 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[04-May-2023 10:22:14 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[04-May-2023 10:22:14 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[04-May-2023 10:22:14 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[04-May-2023 11:28:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[04-May-2023 11:28:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[04-May-2023 11:28:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/course-purchase.php on line 88
+[04-May-2023 11:30:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[04-May-2023 11:30:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[04-May-2023 11:30:42 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[27-May-2023 18:29:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[27-May-2023 18:29:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[27-May-2023 18:29:24 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[31-May-2023 11:55:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 70
+[31-May-2023 11:55:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
+[31-May-2023 11:55:36 Asia/Calcutta] PHP Warning:  Trying to access array offset on value of type null in /home3/weban82x/public_html/2023/ccubecoachingclasses.com/admin/video.php on line 78
